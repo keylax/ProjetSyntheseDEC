@@ -1,9 +1,17 @@
-# Projet_Synthese
+#Projet de jeu vidéo Unity3D fait à la 5e session du DEC. Possibilité que ce projet ne soit plus fonctionnel à cause de liens BD et vers un site PHP inexistants.
 
-# CODE REVIEW
+Comptes fonctionnels:
 
-1. C'est quoi le dossier TL_LAB ? Et d'où vient le dossier ressources ? Pourquoi est-ce ce ces deux dossiers ne sont pas les mêmes ? On dirait que votre structure de dossier n'est pas vraiment la meilleure. C'est pas le temps de mettre vos fichiers n'importe où, dù à la quantité de fichiers que vous allez avoir.
-2. New Terrain ? Voir ça dans le dossier Terrain.
-3. Oubliez pas toute l'équipe d'utiliser les Visual Studio Tools for Unity
-4. Ne mettez pas d'espaces dans les noms de vos dossiers.
-5. Il manque vos mots clés privates et public devant beaucoup de vos méthodes.
+Avec des achievements / véhicules / arènes de débloqués:
+
+	nom: guillaumeouellet77@hotmail.com
+	mot de passe: 123123
+
+
+	nom: 111@111.com
+	mot de passe: 111111
+
+Avec rien de débloqué
+	
+	nom: benjamin@hotmail.com
+	motdepasse: benben
