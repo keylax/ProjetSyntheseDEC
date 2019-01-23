@@ -1,4 +1,6 @@
-#Projet de jeu vidéo Unity3D fait à la 5e session du DEC. Possibilité que ce projet ne soit plus fonctionnel à cause de liens BD et vers un site PHP inexistants.
+Projet de jeu vidéo Unity3D fait à la 5e session du DEC. 
+
+Possibilité que ce projet ne soit plus fonctionnel à cause de liens BD et vers un site PHP inexistants.
 
 Comptes fonctionnels:
 
